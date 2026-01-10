@@ -70,13 +70,9 @@ An intelligent document interaction application powered by the **Gemini API** th
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jay-patel2005&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" />
-</p>
+![Jay Patel GitHub Stats](https://github-readme-stats.vercel.app/api?username=jay-patel2005&show_icons=true&theme=dark&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-git-main.vercel.app/?user=jay-patel2005&theme=dark&hide_border=true" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats-git-main.vercel.app/?user=jay-patel2005&theme=dark&hide_border=true)
 
 ---
 
