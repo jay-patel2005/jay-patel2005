@@ -30,11 +30,11 @@
 <p align="center">
 
 <a href="https://github.com/jay-patel2005/agroland_portal">
-  <img src="images/agroland.png.png" width="420" alt="Agroland" />
+  <img src="images/agroland.png" width="420" alt="Agroland" />
 </a>
 
 <a href="https://github.com/jay-patel2005/Document-Chatbot">
-  <img src="document.png" width="420" alt="Document" />
+  <img src="images/document.png" width="420" alt="Document" />
 </a>
 
 <a href="https://github.com/jay-patel2005/E-learing-project">
