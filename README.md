@@ -20,45 +20,62 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,python,django,mongodb,postgres,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,mysql,git,github" />
 </p>
 
 ---
 
 ## 🧩 Project Highlights
 
-<table align="center">
-  <tr>
+### 🌾 AgroLand – Agricultural Land Portal
+A full-featured platform for buying and selling agricultural land with **dynamic listings**, **user dashboards**, **property approvals**, and **secure database integration**.
 
-    <td align="center">
-      <a href="https://github.com/jay-patel2005/agroland_portal">
-        <img src="images/agroland.png" width="300" height="180" alt="AgroLand Portal"/>
-      </a>
-    </td>
+**Technologies Used:**
+- Express.js  
+- React.js  
+- MySQL  
+- JavaScript  
+- HTML  
+- CSS  
 
-    <td align="center">
-      <a href="https://github.com/jay-patel2005/Document-Chatbot">
-        <img src="images/document.png" width="300" height="180" alt="Document AI Chatbot"/>
-      </a>
-    </td>
-
-    <td align="center">
-      <a href="https://github.com/jay-patel2005/E-learing-project">
-        <img src="images/e-lerning.png" width="300" height="180" alt="E-learning Platform"/>
-      </a>
-    </td>
-
-  </tr>
-</table>
+🔗 **Repository:** https://github.com/jay-patel2005/agroland_portal
 
 ---
 
-## 📊 GitHub Stats 
+### 📘 E-Learning Platform
+A complete online learning system with **interactive courses**, **video lectures**, **quizzes**, **progress tracking**, and **user-friendly dashboards** for students and instructors.
+
+**Technologies Used:**
+- Python  
+- HTML  
+- CSS  
+- JavaScript  
+
+🔗 **Repository:** https://github.com/jay-patel2005/E-learing-project
+
+---
+
+### 🤖 DocuChat – Gemini AI Chatbot
+An intelligent document interaction application powered by the **Gemini API** that understands and answers questions from uploaded **PDF documents**.
+
+**Technologies Used:**
+- Gemini API  
+- LangChain  
+- Python  
+- Streamlit  
+
+🔗 **Repository:** https://github.com/jay-patel2005/Document-Chatbot
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jay-patel2005&show_icons=true&theme=vue-dark&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jay-patel2005&theme=vue-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jay-patel2005&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-git-main.vercel.app/?user=jay-patel2005&theme=dark&hide_border=true" />
 </p>
 
 ---
