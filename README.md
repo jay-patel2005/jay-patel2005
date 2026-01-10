@@ -25,51 +25,27 @@
 
 ---
 
-## ✨ Featured Projects (Animated Cards)
+## 🧩 Project Highlights
 
 <p align="center">
 
-<a href="https://github.com/jay-patel2005/ai-news-aggregator">
-  <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=jay-patel2005&repo=ai-news-aggregator&theme=vue-dark" />
+<a href="https://github.com/jay-patel2005/agroland_portal">
+  <img src="images/agroland.png.png" width="420" alt="Agroland" />
 </a>
 
-<a href="https://github.com/jay-patel2005/gym-management-system">
-  <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=jay-patel2005&repo=gym-management-system&theme=vue-dark" />
+<a href="https://github.com/jay-patel2005/Document-Chatbot">
+  <img src="document.png" width="420" alt="Document" />
 </a>
 
-<a href="https://github.com/jay-patel2005/land-portal">
-  <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=jay-patel2005&repo=land-portal&theme=vue-dark" />
-</a>
-
-<a href="https://github.com/jay-patel2005/order-whatsapp-system">
-  <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=jay-patel2005&repo=order-whatsapp-system&theme=vue-dark" />
+<a href="https://github.com/jay-patel2005/E-learing-project">
+  <img src="images/e-lerning.png" width="420" alt="elerning" />
 </a>
 
 </p>
 
 ---
 
-## 🧩 Project Highlights
-
-### 📰 AI News Aggregator
-- Django-based news platform
-- Infinite scrolling & categories
-- User authentication
-- Clean backend architecture
-
-### 🏋️ Gym Management System
-- PHP + MySQL system
-- Member & trainer management
-- Admin dashboard
-
-### 🌾 Agricultural Land Buy/Sell Portal
-- Django + PostgreSQL backend
-- Location-based land filtering
-- Real-world problem solution
-- 
----
-
-## 📊 GitHub Stats (Animated)
+## 📊 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jay-patel2005&show_icons=true&theme=vue-dark&hide_border=true" />
