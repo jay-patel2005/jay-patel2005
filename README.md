@@ -27,21 +27,40 @@
 
 ## 🧩 Project Highlights
 
-<p align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="300">
+      <a href="https://github.com/jay-patel2005/agroland_portal">
+        <img src="images/agroland.png" width="280" height="180" alt="Agroland Project" />
+      </a>
+      <br/>
+      <strong>AgroLand Portal</strong>
+      <br/>
+      <sub>Django • PostgreSQL • Backend</sub>
+    </td>
 
-<a href="https://github.com/jay-patel2005/agroland_portal">
-  <img src="images/agroland.png" width="420" alt="Agroland" />
-</a>
+    <td align="center" width="300">
+      <a href="https://github.com/jay-patel2005/Document-Chatbot">
+        <img src="images/document.png" width="280" height="180" alt="Document Chatbot" />
+      </a>
+      <br/>
+      <strong>Document AI Chatbot</strong>
+      <br/>
+      <sub>Python • NLP • AI</sub>
+    </td>
 
-<a href="https://github.com/jay-patel2005/Document-Chatbot">
-  <img src="images/document.png" width="420" alt="Document" />
-</a>
+    <td align="center" width="300">
+      <a href="https://github.com/jay-patel2005/E-learing-project">
+        <img src="images/e-lerning.png" width="280" height="180" alt="E-learning Platform" />
+      </a>
+      <br/>
+      <strong>E-Learning Platform</strong>
+      <br/>
+      <sub>Web • UI • Backend</sub>
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/jay-patel2005/E-learing-project">
-  <img src="images/e-lerning.png" width="420" alt="elerning" />
-</a>
-
-</p>
 
 ---
 
