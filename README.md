@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🎓 MCA student from gujrat  
+- 🎓 MCA student from Gujarat  
 - 💻 Full Stack Developer (MERN + Django)  
 - 🧠 Backend, APIs & Database focused  
 - 🏗️ Built multiple real-world projects  
@@ -29,38 +29,27 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="300">
+
+    <td align="center">
       <a href="https://github.com/jay-patel2005/agroland_portal">
-        <img src="images/agroland.png" width="280" height="180" alt="Agroland Project" />
+        <img src="images/agroland.png" width="300" height="180" alt="AgroLand Portal"/>
       </a>
-      <br/>
-      <strong>AgroLand Portal</strong>
-      <br/>
-      <sub>Django • PostgreSQL • Backend</sub>
     </td>
 
-    <td align="center" width="300">
+    <td align="center">
       <a href="https://github.com/jay-patel2005/Document-Chatbot">
-        <img src="images/document.png" width="280" height="180" alt="Document Chatbot" />
+        <img src="images/document.png" width="300" height="180" alt="Document AI Chatbot"/>
       </a>
-      <br/>
-      <strong>Document AI Chatbot</strong>
-      <br/>
-      <sub>Python • NLP • AI</sub>
     </td>
 
-    <td align="center" width="300">
+    <td align="center">
       <a href="https://github.com/jay-patel2005/E-learing-project">
-        <img src="images/e-lerning.png" width="280" height="180" alt="E-learning Platform" />
+        <img src="images/e-lerning.png" width="300" height="180" alt="E-learning Platform"/>
       </a>
-      <br/>
-      <strong>E-Learning Platform</strong>
-      <br/>
-      <sub>Web • UI • Backend</sub>
     </td>
+
   </tr>
 </table>
-
 
 ---
 
@@ -76,10 +65,10 @@
 
 ## 📬 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/jay-patel2005
-- 🌐  Portfolio: https://pateljayportfolio.netlify.app
-- 📧 Email: jspatel.nvp@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/jay-patel2005  
+- 🌐 Portfolio: https://pateljayportfolio.netlify.app  
+- 📧 Email: jspatel.nvp@gmail.com  
 
 ---
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+Thanks for stopping by! Let’s connect and explore the fascinating world of technology together 🚀
